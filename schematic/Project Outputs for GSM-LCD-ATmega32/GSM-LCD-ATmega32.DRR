@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: GSM-LCD-ATmega32.PcbDoc   16/06/2015  11:49:02 CH
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : GSM-LCD-ATmega32-RoundHoles.TXT
+ASCII SlotHoles File : GSM-LCD-ATmega32-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.7mm (27.559mil)        Round          10               206.38 mm (8.13 Inch)
+T2        0.8mm (31.496mil)        Round          131              1030.22 mm (40.56 Inch)
+T3        0.9mm (35.433mil)        Round          12               263.12 mm (10.36 Inch)
+T4        1mm (39.37mil)           Round          93               729.60 mm (28.72 Inch)
+T5        1.2mm (47.244mil)        Round          6                58.17 mm (2.29 Inch)
+T6        1.27mm (50mil)           Slot           3                7449.90 mm (293.30 Inch)
+T7        1.3mm (51.181mil)        Round          25               359.01 mm (14.13 Inch)
+T8        1.524mm (60mil)          Round          10               89.75 mm (3.53 Inch)
+T9        1.6mm (62.992mil)        Round          2                15.24 mm (0.60 Inch)
+T10       1.905mm (75mil)          Round          1                0.00 mm (0.00 Inch)
+T11       2.5mm (98.425mil)        Round          4                218.05 mm (8.58 Inch)
+---------------------------------------------------------------------------
+Totals                                            297              10419.43 mm (410.21 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
